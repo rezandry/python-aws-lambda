@@ -7,7 +7,7 @@ This project support debug locally with mock request in debug.py
 - Python 3.xx
 
 #### How to debug?
-Just run python debug.py on your terminal
+Just type and enter `python debug.py` on your terminal
 ```
 Maintainer : Reza Andriyunanto
 
